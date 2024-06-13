@@ -7,15 +7,15 @@ global.autoReadAll = false
 global.antitags = true
 
 
-global.Owner = ['94779327828']
-global.OwnerNumber = ['94779327828']
-global.ownertag = ['94779327828']
+global.Owner = ['919556416715']
+global.OwnerNumber = ['919556416715']
+global.ownertag = ['919556416715']
 global.BotName = "Miku"
 global.packname = "Miku bot"
-global.author = "By: xAlone"
-global.OwnerName = "xAlone"
-global.BotSourceCode = "https://github.com/xAloneBOT/Miku-MD"
-global.SupportGroupLink = "https://chat.whatsapp.com/D9LvrBdQQ31ESkg2EdOjYN"
+global.author = "By: CHARLIE"
+global.OwnerName = "CHARLIE"
+global.BotSourceCode = "https://youtube.com/CHARLIE999"
+global.SupportGroupLink = "https://youtube.com/CHARLIE999"
 global.sessionName = "session"
 
 // Prefix //
@@ -23,12 +23,12 @@ global.sessionName = "session"
 global.prefa = ['-'] 
 
 
-global.location = "Galle ,Srilanka"
+global.location = "Mumbai ,India"
 global.reactmoji = "❤️"
 global.themeemoji = "💖"
 global.vidmenu = { url: 'https://c.tenor.com/YGuLegQWubwAAAPo/miku-nakano-gotoubun-no-hanayome.mp4' }
-global.websitex = "https://github.com/xAloneBOT"
-global.lolhuman = "xAlone"
+global.websitex = "https://youtube.com/CHARLIE999"
+global.lolhuman = "CHARLIE"
 
 
 global.BotLogo = fs.readFileSync("./Assets/pic1.jpg")
